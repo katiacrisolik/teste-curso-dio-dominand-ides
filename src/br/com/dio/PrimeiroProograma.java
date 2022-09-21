@@ -9,6 +9,7 @@ public class PrimeiroProograma {
 		Gato gato = new Gato();
 		
 		System.out.println(gato);
+		
 	
 	}
 }
